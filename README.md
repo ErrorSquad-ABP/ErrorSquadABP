@@ -46,10 +46,6 @@
 
 <div align="center">
 
-![GitHub last commit](https://img.shields.io/github/last-commit/ErrorSquad-ABP/error-squad-abp?color=4A90E2)
-![GitHub repo size](https://img.shields.io/github/repo-size/ErrorSquad-ABP/error-squad-abp?color=4A90E2)
-![GitHub contributors](https://img.shields.io/github/contributors/ErrorSquad-ABP/error-squad-abp?color=4A90E2)
-
 </div>
 
 <div align="center">
