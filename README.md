@@ -108,19 +108,22 @@
 <summary><b>💻 Visual Studio Code</b></summary>
 
 - **Download:** [Clique aqui para baixar o VSCode](https://code.visualstudio.com/)
-<br>
+  <br>
 
 - **Extensões recomendadas:**
 - **Essenciais**:
+
   - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
   - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 - **JavaScript/Node.js**:
+
   - [Node.js Extension Pack](https://marketplace.visualstudio.com/items?itemName=waderyan.nodejs-extension-pack)
   - [JavaScript (ES6) Code Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
   - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 
 - **PostgreSQL**:
+
   - [PostgreSQL](https://marketplace.visualstudio.com/items?itemName=ckolkman.vscode-postgres)
   - [Database Client](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-postgresql-client2)
 
@@ -128,7 +131,7 @@
   - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
   - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
   - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
-</details>
+  </details>
 
 <details>
 <summary><b>🗄️ PostgreSQL</b></summary>
@@ -295,9 +298,13 @@ npm install
 
 <br>
 
-## Licença
+## 📜 Licença
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE) - veja o arquivo LICENSE para detalhes.
+<div align="center">
+    <a href="https://github.com/ErrorSquad-ABP/ErrorSquadABP/blob/main/LICENSE">
+        <img src="https://img.shields.io/badge/📄_Licença-MIT-4a90e2?style=for-the-badge"/>
+    </a>
+</div>
 
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=4a90e2&height=100&section=footer" width="100%"/>
