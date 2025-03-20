@@ -295,9 +295,9 @@ npm install
 
 <br>
 
-<div align="center">
-    <img src="https://img.shields.io/badge/Licença-A_Definir-yellow?style=for-the-badge&logo=bookstack&logoColor=white"/>
-</div>
+## Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE) - veja o arquivo LICENSE para detalhes.
 
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=4a90e2&height=100&section=footer" width="100%"/>
