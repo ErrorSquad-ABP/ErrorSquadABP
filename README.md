@@ -80,22 +80,19 @@
 | ⏳     | Fase 4: Testes e Validação            |
 | ⏳     | Fase 5: Entrega e Apresentação        |
 
-## 🛠️ Tecnologias Previstas
-
-> ⚠️ Os requisitos estão em processo de definição. As ferramentas listadas abaixo são preliminares e podem ser alteradas.
+## 🛠️ Tecnologias
 
 <details>
 <summary><b>💻 Principais Tecnologias</b></summary>
 <br>
 
 - **JavaScript**: Linguagem principal do projeto
-- **Node.js**: Backend da aplicação
-- **PostgreSQL**: Banco de dados
+- **HTML**: Estruturação das páginas
+- **CSS**: Estilização dos componentes
+- **Git**: Controle de versão
 </details>
 
 ### Pré-requisitos
-
-> ⚠️ Os requisitos estão em processo de definição. As ferramentas listadas abaixo são preliminares e podem ser alteradas.
 
 <details>
 <summary><b>🔧 Node.js</b></summary>
@@ -112,46 +109,22 @@
 
 - **Extensões recomendadas:**
 - **Essenciais**:
-
   - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
   - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-
-- **JavaScript/Node.js**:
-
-  - [Node.js Extension Pack](https://marketplace.visualstudio.com/items?itemName=waderyan.nodejs-extension-pack)
-  - [JavaScript (ES6) Code Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
-  - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
-
-- **PostgreSQL**:
-
-  - [PostgreSQL](https://marketplace.visualstudio.com/items?itemName=ckolkman.vscode-postgres)
-  - [Database Client](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-postgresql-client2)
-
-- **Produtividade**:
   - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
   - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-  - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
-  </details>
-
-<details>
-<summary><b>🗄️ PostgreSQL</b></summary>
-<br>
-
-- **Download:** [Clique aqui para baixar o PostgreSQL](https://www.postgresql.org/download/)
 </details>
 
 ### 📥 Instalação e Execução
 
-> ⚠️ Instruções detalhadas serão disponibilizadas após a definição completa do ambiente.
-
 ```bash
 # Clone o repositório
-git clone https://github.com/ErrorSquad-ABP/error-squad-abp
+git clone https://github.com/ErrorSquad-ABP/error-squad-front.git
 
 # Entre na pasta do projeto
-cd error-squad-abp
+cd error-squad-front
 
-# Instale as dependências, se aplicável
+# Instale as dependências
 npm install
 ```
 
