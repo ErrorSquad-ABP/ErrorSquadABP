@@ -1,13 +1,12 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&repeat=true&width=435&lines=Error+Squad+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&repeat=true&width=1000&lines=Interface+Web+de+Hor%C3%A1rios+Acad%C3%AAmicos+%7C+Frontend+%F0%9F%92%BB" alt="Typing SVG" />
   </h1>
 
   <div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
     <a href="https://www.cps.sp.gov.br/">
       <img src="./Images/CPS-removebg-preview.png" height="90" alt="Logo CPS"/>
     </a>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://fatecjacarei.cps.sp.gov.br/">
       <img src="./Images/Fatec-removebg-preview.png" height="90" alt="Logo Fatec"/>
     </a>
@@ -16,106 +15,71 @@
   <br>
   
   <div>
-    <img src="https://img.shields.io/badge/Status-Em_Desenvolvimento-4a90e2?style=for-the-badge&logo=clockify&logoColor=1A1B27"/>
+    <img src="https://img.shields.io/badge/Projeto-ABP_2025.1-blue?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Sprint-1_▶️-orange?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Mobile_First-✔️-success?style=for-the-badge"/>
   </div>
-
-  <br>
-  
-  <p align="center">
-    <a href="#-descrição">
-      <img src="https://img.shields.io/badge/📝_Descrição-4a90e2?style=for-the-badge"/>
-    </a>
-    &nbsp;
-    <a href="#-status-do-projeto">
-      <img src="https://img.shields.io/badge/📊_Status-4a90e2?style=for-the-badge"/>
-    </a>
-    &nbsp;
-    <a href="#%EF%B8%8F-tecnologias-previstas">
-      <img src="https://img.shields.io/badge/🛠️_Tecnologias-4a90e2?style=for-the-badge"/>
-    </a>
-    &nbsp;
-    <a href="#-instalação-e-execução">
-      <img src="https://img.shields.io/badge/⚙️_Execução-4a90e2?style=for-the-badge"/>
-    </a>
-    &nbsp;
-    <a href="#-nossa-equipe">
-      <img src="https://img.shields.io/badge/👥_Equipe-4a90e2?style=for-the-badge"/>
-    </a>
-  </p>
 </div>
 
-<hr>
+## 📱 Visão Geral
 
----
+Interface web responsiva para visualização de horários acadêmicos da FATEC Jacareí. Desenvolvida seguindo o conceito Mobile First, com foco em usabilidade e experiência do usuário.
 
-## 📝 Descrição
+  ### ⚡ Principais Features
+  - Visualização interativa de horários
+- Mapa interativo de ambientes
+- Sistema de filtros dinâmicos
+- Exportação de relatórios
+- Layout responsivo e adaptativo
+- Interface otimizada para mobile
 
-<div align="justify">
-  O <b>Error Squad</b> é uma equipe dedicada de estudantes do curso de <b>Desenvolvimento de Software Multiplataforma (DSM)</b> da <b>FATEC Jacareí</b>, formada para enfrentar desafios reais através da metodologia de <b>Aprendizagem Baseada em Projetos (ABP)</b>.
-  
-  <br>
-  <br>
-  
-  Nossa missão é desenvolver soluções tecnológicas inovadoras que não apenas resolvam problemas complexos, mas também demonstrem excelência técnica e valor prático. Combinamos:
+### 🎯 Requisitos da Interface
+- **RNF01:** Mapa interativo de salas com visualização por turno
+- **RNF02:** Design responsivo e consistente em todos os dispositivos
+- **RF04:** Sistema de exportação de relatórios em PDF
+- **RF05:** Consultas dinâmicas (turma/turno/professor)
 
-- 🎯 **Metodologias Ágeis**: Scrum como framework principal
-- 💻 **Stack Moderna**: JavaScript, React, Node.js e PostgreSQL
-- 🔄 **Controle de Versão**: Git para gerenciamento de código
-- 🤝 **Colaboração**: Ambiente de desenvolvimento participativo e inclusivo
-- 📊 **Gestão de Projeto**: Planejamento estruturado e documentação detalhada
+  ### 📋 Regras de Negócio
+- Validação de conflitos de horários
+- Consistência na exibição de dados
+- Atualização em tempo real
+- Feedback visual de ações
 
-<br>
+## ⚙️ Stack Frontend
 
-> ⚠️ Nosso projeto atual encontra-se em desenvolvimento ativo, com foco em estabelecer uma base sólida de arquitetura e implementação das funcionalidades principais.
+### Tecnologias Core
+- **HTML5** - Estruturação semântica do conteúdo
+- **CSS3** - Estilização e responsividade
+- **JavaScript** - Lógica e interatividade
+- **Express** - Servidor de desenvolvimento
 
-</div>
+### UI/UX
+- **Figma** - Prototipação e design system
+- **Mobile First** - Metodologia de desenvolvimento
+- **Responsividade** - Breakpoints adaptativos
 
-## 📊 Status do Projeto
+### DevTools
+- **Git/GitHub** - Versionamento de código
+- **GitHub Projects** - Gestão ágil (Kanban)
+- **VS Code** - Ambiente de desenvolvimento
 
-| Status | Fase                                  |
-| ------ | ------------------------------------- |
-| ✅     | Fase 1: Definição do Projeto e Equipe |
-| ⏳     | Fase 2: Planejamento e Design         |
-| ⏳     | Fase 3: Desenvolvimento               |
-| ⏳     | Fase 4: Testes e Validação            |
-| ⏳     | Fase 5: Entrega e Apresentação        |
+## 📅 Cronograma Frontend
 
-## 🛠️ Tecnologias
+| Sprint | Período | Entregas |
+|--------|---------|----------|
+| Sprint 1 | 24/03 - 14/04 | - Prototipação (Figma)<br>- Layout base responsivo<br>- Mapa interativo inicial |
+| Sprint 2 | 16/04 - 14/05 | - Sistema de filtros<br>- Integração backend<br>- Exportação PDF |
+| Sprint 3 | 16/05 - 09/06 | - Refinamentos UI/UX<br>- Testes e correções<br>- Documentação final |
 
-<details>
-<summary><b>💻 Principais Tecnologias</b></summary>
-<br>
-
-- **JavaScript**: Linguagem principal do projeto
-- **HTML**: Estruturação das páginas
-- **CSS**: Estilização dos componentes
-- **Git**: Controle de versão
-</details>
+## 📥 Como Executar o Projeto
 
 ### Pré-requisitos
 
-<details>
-<summary><b>🔧 Node.js</b></summary>
-<br>
+- **Node.js**: [Baixe aqui](https://nodejs.org/)
+- **Git**: [Baixe aqui](https://git-scm.com/)
+- **Editor de Código**: Recomendado [Visual Studio Code](https://code.visualstudio.com/)
 
-- **Download:** [Clique aqui para baixar o Node.js](https://nodejs.org/)
-</details>
-
-<details>
-<summary><b>💻 Visual Studio Code</b></summary>
-
-- **Download:** [Clique aqui para baixar o VSCode](https://code.visualstudio.com/)
-  <br>
-
-- **Extensões recomendadas:**
-- **Essenciais**:
-  - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-  - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-  - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-  - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-</details>
-
-### 📥 Instalação e Execução
+### Passos para Execução
 
 ```bash
 # Clone o repositório
@@ -125,8 +89,13 @@ git clone https://github.com/ErrorSquad-ABP/error-squad-front.git
 cd error-squad-front
 
 # Instale as dependências
-npm install
+npm install express
+
+# Inicie o servidor de desenvolvimento
+npm start
 ```
+
+---
 
 ## 👥 Nossa Equipe
 
@@ -204,7 +173,6 @@ npm install
                             </a>
                             <a href="https://www.linkedin.com/in/felipe-ferreira-pacheco-621443347/">
                                 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-                            </a>
                         </td>
                     </tr>
                     <tr>
@@ -233,6 +201,8 @@ npm install
     </table>
 </div>
 
+---
+
 ## 👨‍🏫 Coordenação e Orientação
 
 <div align="center">
@@ -253,14 +223,16 @@ npm install
                             <a href="https://www.linkedin.com/in/arley-souza/">
                                 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
                             </a>
-                            <td align="center">
+                        </td>
+                        <td align="center">
                             <b>Prof. Marcelo Sudo</b><br>
-                            <i>Orientador ABP</i><br>
+                            <i>Focal Point</i><br>
                             <a href="https://github.com/marcelosudo">
                                 <img src="https://img.shields.io/badge/GitHub-333?style=flat-square&logo=github"/>
                             </a>
                             <a href="https://www.linkedin.com/in/marcelo-sudo/">
                                 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+                            </a>
                         </td>
                     </tr>
                 </table>
