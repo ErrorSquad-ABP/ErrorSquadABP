@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&repeat=true&width=435&lines=Error+Squad+Frontend+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&repeat=true&width=1000&lines=Interface+Web+de+Hor%C3%A1rios+Acad%C3%AAmicos+%7C+Frontend+%F0%9F%92%BB" alt="Typing SVG" />
   </h1>
 
   <div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
@@ -15,83 +15,61 @@
   <br>
   
   <div>
-    <img src="https://img.shields.io/badge/Status-Em_Desenvolvimento-4a90e2?style=for-the-badge&logo=clockify&logoColor=1A1B27"/>
-    <img src="https://img.shields.io/badge/Frontend-JavaScript_Vanilla-4a90e2?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    <img src="https://img.shields.io/badge/Responsividade-Mobile_First-4a90e2?style=for-the-badge&logo=responsive-design&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Projeto-ABP_2025.1-blue?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Sprint-1_▶️-orange?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Mobile_First-✔️-success?style=for-the-badge"/>
   </div>
-
-  <br>
-  
-  <p align="center">
-    <a href="#-sobre-o-projeto">
-      <img src="https://img.shields.io/badge/📝_Sobre_o_Projeto-4a90e2?style=for-the-badge"/>
-    </a>
-    &nbsp;
-    <a href="#-tecnologias-utilizadas">
-      <img src="https://img.shields.io/badge/🛠️_Tecnologias-4a90e2?style=for-the-badge"/>
-    </a>
-    &nbsp;
-    <a href="#-como-executar-o-projeto">
-      <img src="https://img.shields.io/badge/⚙️_Execução-4a90e2?style=for-the-badge"/>
-    </a>
-    &nbsp;
-    <a href="#-nossa-equipe">
-      <img src="https://img.shields.io/badge/👥_Equipe-4a90e2?style=for-the-badge"/>
-    </a>
-  </p>
 </div>
 
-<hr>
+## 📱 Visão Geral
 
----
+Interface web responsiva para visualização de horários acadêmicos da FATEC Jacareí. Desenvolvida seguindo o conceito Mobile First, com foco em usabilidade e experiência do usuário.
 
-## 📝 Sobre o Projeto
+  ### ⚡ Principais Features
+  - Visualização interativa de horários
+- Mapa interativo de ambientes
+- Sistema de filtros dinâmicos
+- Exportação de relatórios
+- Layout responsivo e adaptativo
+- Interface otimizada para mobile
 
-<div align="justify">
-  O <b>Error Squad Frontend</b> é uma aplicação web desenvolvida para facilitar a visualização de horários de aulas e a alocação de ambientes acadêmicos. Este projeto faz parte de uma iniciativa de <b>Aprendizagem Baseada em Projetos (ABP)</b>, com foco no desenvolvimento frontend utilizando tecnologias modernas e responsivas.
+### 🎯 Requisitos da Interface
+- **RNF01:** Mapa interativo de salas com visualização por turno
+- **RNF02:** Design responsivo e consistente em todos os dispositivos
+- **RF04:** Sistema de exportação de relatórios em PDF
+- **RF05:** Consultas dinâmicas (turma/turno/professor)
 
-  <br>
+  ### 📋 Regras de Negócio
+- Validação de conflitos de horários
+- Consistência na exibição de dados
+- Atualização em tempo real
+- Feedback visual de ações
 
-  ### Objetivo
-  Criar uma interface intuitiva e responsiva que permita aos usuários consultar horários de aulas por curso, ambiente, turno e turma, além de exportar relatórios em PDF.
+## ⚙️ Stack Frontend
 
-  ### Funcionalidades
-  - Exibição de horários de aulas e alocação de ambientes.
-  - Consultas interativas por turma, turno, professor e data.
-  - Exportação de relatórios em formato PDF.
-  - Interface responsiva para dispositivos móveis e desktops.
+### Tecnologias Core
+- **HTML5** - Estruturação semântica do conteúdo
+- **CSS3** - Estilização e responsividade
+- **JavaScript** - Lógica e interatividade
+- **Express** - Servidor de desenvolvimento
 
-  ### Desafio
-  Substituir o método tradicional de divulgação de horários (murais e e-mails) por uma solução digital eficiente e de fácil manutenção.
+### UI/UX
+- **Figma** - Prototipação e design system
+- **Mobile First** - Metodologia de desenvolvimento
+- **Responsividade** - Breakpoints adaptativos
 
-  > ⚠️ O projeto está em desenvolvimento ativo, com foco na implementação das funcionalidades principais e validação contínua.
-</div>
+### DevTools
+- **Git/GitHub** - Versionamento de código
+- **GitHub Projects** - Gestão ágil (Kanban)
+- **VS Code** - Ambiente de desenvolvimento
 
----
+## 📅 Cronograma Frontend
 
-## 🛠️ Tecnologias Utilizadas
-
-<details>
-<summary><b>💻 Tecnologias Principais</b></summary>
-<br>
-
-- **HTML5**: Estruturação semântica das páginas.
-- **CSS3**: Estilização com foco em responsividade (Mobile First).
-- **JavaScript (Vanilla)**: Lógica de interação e manipulação do DOM.
-- **Express.js**: Servidor para integração com o backend.
-- **Git**: Controle de versão e colaboração.
-</details>
-
-<details>
-<summary><b>📦 Ferramentas de Suporte</b></summary>
-<br>
-
-- **Figma**: Prototipação e validação de interfaces.
-- **GitHub Projects**: Gerenciamento de tarefas e progresso.
-- **PostgreSQL**: Banco de dados relacional para integração futura.
-</details>
-
----
+| Sprint | Período | Entregas |
+|--------|---------|----------|
+| Sprint 1 | 24/03 - 14/04 | - Prototipação (Figma)<br>- Layout base responsivo<br>- Mapa interativo inicial |
+| Sprint 2 | 16/04 - 14/05 | - Sistema de filtros<br>- Integração backend<br>- Exportação PDF |
+| Sprint 3 | 16/05 - 09/06 | - Refinamentos UI/UX<br>- Testes e correções<br>- Documentação final |
 
 ## 📥 Como Executar o Projeto
 
@@ -195,7 +173,6 @@ npm start
                             </a>
                             <a href="https://www.linkedin.com/in/felipe-ferreira-pacheco-621443347/">
                                 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-                            </a>
                         </td>
                     </tr>
                     <tr>
@@ -246,14 +223,16 @@ npm start
                             <a href="https://www.linkedin.com/in/arley-souza/">
                                 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
                             </a>
-                            <td align="center">
+                        </td>
+                        <td align="center">
                             <b>Prof. Marcelo Sudo</b><br>
-                            <i>Orientador ABP</i><br>
+                            <i>Focal Point</i><br>
                             <a href="https://github.com/marcelosudo">
                                 <img src="https://img.shields.io/badge/GitHub-333?style=flat-square&logo=github"/>
                             </a>
                             <a href="https://www.linkedin.com/in/marcelo-sudo/">
                                 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+                            </a>
                         </td>
                     </tr>
                 </table>
