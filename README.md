@@ -1,13 +1,12 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&repeat=true&width=435&lines=Error+Squad+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&repeat=true&width=435&lines=Error+Squad+Frontend+%F0%9F%92%BB" alt="Typing SVG" />
   </h1>
 
   <div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
     <a href="https://www.cps.sp.gov.br/">
       <img src="./Images/CPS-removebg-preview.png" height="90" alt="Logo CPS"/>
     </a>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://fatecjacarei.cps.sp.gov.br/">
       <img src="./Images/Fatec-removebg-preview.png" height="90" alt="Logo Fatec"/>
     </a>
@@ -17,24 +16,22 @@
   
   <div>
     <img src="https://img.shields.io/badge/Status-Em_Desenvolvimento-4a90e2?style=for-the-badge&logo=clockify&logoColor=1A1B27"/>
+    <img src="https://img.shields.io/badge/Frontend-JavaScript_Vanilla-4a90e2?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+    <img src="https://img.shields.io/badge/Responsividade-Mobile_First-4a90e2?style=for-the-badge&logo=responsive-design&logoColor=white"/>
   </div>
 
   <br>
   
   <p align="center">
-    <a href="#-descrição">
-      <img src="https://img.shields.io/badge/📝_Descrição-4a90e2?style=for-the-badge"/>
+    <a href="#-sobre-o-projeto">
+      <img src="https://img.shields.io/badge/📝_Sobre_o_Projeto-4a90e2?style=for-the-badge"/>
     </a>
     &nbsp;
-    <a href="#-status-do-projeto">
-      <img src="https://img.shields.io/badge/📊_Status-4a90e2?style=for-the-badge"/>
-    </a>
-    &nbsp;
-    <a href="#%EF%B8%8F-tecnologias-previstas">
+    <a href="#-tecnologias-utilizadas">
       <img src="https://img.shields.io/badge/🛠️_Tecnologias-4a90e2?style=for-the-badge"/>
     </a>
     &nbsp;
-    <a href="#-instalação-e-execução">
+    <a href="#-como-executar-o-projeto">
       <img src="https://img.shields.io/badge/⚙️_Execução-4a90e2?style=for-the-badge"/>
     </a>
     &nbsp;
@@ -48,74 +45,63 @@
 
 ---
 
-## 📝 Descrição
+## 📝 Sobre o Projeto
 
 <div align="justify">
-  O <b>Error Squad</b> é uma equipe dedicada de estudantes do curso de <b>Desenvolvimento de Software Multiplataforma (DSM)</b> da <b>FATEC Jacareí</b>, formada para enfrentar desafios reais através da metodologia de <b>Aprendizagem Baseada em Projetos (ABP)</b>.
-  
+  O <b>Error Squad Frontend</b> é uma aplicação web desenvolvida para facilitar a visualização de horários de aulas e a alocação de ambientes acadêmicos. Este projeto faz parte de uma iniciativa de <b>Aprendizagem Baseada em Projetos (ABP)</b>, com foco no desenvolvimento frontend utilizando tecnologias modernas e responsivas.
+
   <br>
-  <br>
-  
-  Nossa missão é desenvolver soluções tecnológicas inovadoras que não apenas resolvam problemas complexos, mas também demonstrem excelência técnica e valor prático. Combinamos:
 
-- 🎯 **Metodologias Ágeis**: Scrum como framework principal
-- 💻 **Stack Moderna**: JavaScript, React, Node.js e PostgreSQL
-- 🔄 **Controle de Versão**: Git para gerenciamento de código
-- 🤝 **Colaboração**: Ambiente de desenvolvimento participativo e inclusivo
-- 📊 **Gestão de Projeto**: Planejamento estruturado e documentação detalhada
+  ### Objetivo
+  Criar uma interface intuitiva e responsiva que permita aos usuários consultar horários de aulas por curso, ambiente, turno e turma, além de exportar relatórios em PDF.
 
-<br>
+  ### Funcionalidades
+  - Exibição de horários de aulas e alocação de ambientes.
+  - Consultas interativas por turma, turno, professor e data.
+  - Exportação de relatórios em formato PDF.
+  - Interface responsiva para dispositivos móveis e desktops.
 
-> ⚠️ Nosso projeto atual encontra-se em desenvolvimento ativo, com foco em estabelecer uma base sólida de arquitetura e implementação das funcionalidades principais.
+  ### Desafio
+  Substituir o método tradicional de divulgação de horários (murais e e-mails) por uma solução digital eficiente e de fácil manutenção.
 
+  > ⚠️ O projeto está em desenvolvimento ativo, com foco na implementação das funcionalidades principais e validação contínua.
 </div>
 
-## 📊 Status do Projeto
+---
 
-| Status | Fase                                  |
-| ------ | ------------------------------------- |
-| ✅     | Fase 1: Definição do Projeto e Equipe |
-| ⏳     | Fase 2: Planejamento e Design         |
-| ⏳     | Fase 3: Desenvolvimento               |
-| ⏳     | Fase 4: Testes e Validação            |
-| ⏳     | Fase 5: Entrega e Apresentação        |
-
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias Utilizadas
 
 <details>
-<summary><b>💻 Principais Tecnologias</b></summary>
+<summary><b>💻 Tecnologias Principais</b></summary>
 <br>
 
-- **JavaScript**: Linguagem principal do projeto
-- **HTML**: Estruturação das páginas
-- **CSS**: Estilização dos componentes
-- **Git**: Controle de versão
+- **HTML5**: Estruturação semântica das páginas.
+- **CSS3**: Estilização com foco em responsividade (Mobile First).
+- **JavaScript (Vanilla)**: Lógica de interação e manipulação do DOM.
+- **Express.js**: Servidor para integração com o backend.
+- **Git**: Controle de versão e colaboração.
 </details>
+
+<details>
+<summary><b>📦 Ferramentas de Suporte</b></summary>
+<br>
+
+- **Figma**: Prototipação e validação de interfaces.
+- **GitHub Projects**: Gerenciamento de tarefas e progresso.
+- **PostgreSQL**: Banco de dados relacional para integração futura.
+</details>
+
+---
+
+## 📥 Como Executar o Projeto
 
 ### Pré-requisitos
 
-<details>
-<summary><b>🔧 Node.js</b></summary>
-<br>
+- **Node.js**: [Baixe aqui](https://nodejs.org/)
+- **Git**: [Baixe aqui](https://git-scm.com/)
+- **Editor de Código**: Recomendado [Visual Studio Code](https://code.visualstudio.com/)
 
-- **Download:** [Clique aqui para baixar o Node.js](https://nodejs.org/)
-</details>
-
-<details>
-<summary><b>💻 Visual Studio Code</b></summary>
-
-- **Download:** [Clique aqui para baixar o VSCode](https://code.visualstudio.com/)
-  <br>
-
-- **Extensões recomendadas:**
-- **Essenciais**:
-  - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-  - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-  - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-  - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-</details>
-
-### 📥 Instalação e Execução
+### Passos para Execução
 
 ```bash
 # Clone o repositório
@@ -125,8 +111,13 @@ git clone https://github.com/ErrorSquad-ABP/error-squad-front.git
 cd error-squad-front
 
 # Instale as dependências
-npm install
+npm install express
+
+# Inicie o servidor de desenvolvimento
+npm start
 ```
+
+---
 
 ## 👥 Nossa Equipe
 
@@ -232,6 +223,8 @@ npm install
         </tr>
     </table>
 </div>
+
+---
 
 ## 👨‍🏫 Coordenação e Orientação
 
