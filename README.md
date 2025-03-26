@@ -3,13 +3,13 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&repeat=true&width=1000&lines=Interface+Web+de+Hor%C3%A1rios+Acad%C3%AAmicos+%7C+Frontend+%F0%9F%92%BB" alt="Typing SVG" />
   </h1>
 
-  <div align="center">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
     <a href="https://www.cps.sp.gov.br/">
-      <img src="./Images/CPS-removebg-preview.png" height="90" alt="Logo CPS"/>
+      <img src="https://raw.githubusercontent.com/ErrorSquad-ABP/ErrorSquad-Assets1/main/Images/CPS-removebg-preview.png" height="90" alt="Logo CPS"/>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://fatecjacarei.cps.sp.gov.br/">
-      <img src="./Images/Fatec-removebg-preview.png" height="90" alt="Logo Fatec"/>
+      <img src="https://raw.githubusercontent.com/ErrorSquad-ABP/ErrorSquad-Assets1/main/Images/Fatec-removebg-preview.png" height="90" alt="Logo Fatec"/>
     </a>
   </div>
 
