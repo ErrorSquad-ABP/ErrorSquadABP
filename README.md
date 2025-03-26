@@ -209,22 +209,12 @@ npm start
 <div align="center">
     <table>
         <tr>
-            <td align="center"><b>Professores</b></td>
+            <td align="center"><b>Professor</b></td>
         </tr>
         <tr>
             <td align="center">
                 <table>
                     <tr>
-                        <td align="center">
-                            <b>Prof. Arley Souza</b><br>
-                            <i>Orientador ABP</i><br>
-                            <a href="https://github.com/arleysouza">
-                                <img src="https://img.shields.io/badge/GitHub-333?style=flat-square&logo=github"/>
-                            </a>
-                            <a href="https://www.linkedin.com/in/arley-souza/">
-                                <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-                            </a>
-                        </td>
                         <td align="center">
                             <b>Prof. Marcelo Sudo</b><br>
                             <i>Focal Point</i><br>
@@ -241,6 +231,8 @@ npm start
         </tr>
     </table>
 </div>
+
+---
 
 <br>
 
